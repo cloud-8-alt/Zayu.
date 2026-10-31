@@ -1,0 +1,104 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: o/vYqUlwI9Stkg4XxU3cQ/9g1Yqs6KfmaBnxFYiEjXM=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 8YO2iX9Rz8BnndAXjitQNxtl9+xDLR+9AjTMjCnP2aY=
+
+Name: assets/akiniovo/css/akini-perf-lite.css
+SHA-256-Digest: CaNnbPRUTnxjGjhqSewNrzde5u0QPRQyl5zasS/X3XU=
+
+Name: assets/akiniovo/css/akini-style.css
+SHA-256-Digest: vJZxDRRHbsOCXrB/0TifA1yGNUSGP/q8OOde/vMQNko=
+
+Name: assets/akiniovo/index.html
+SHA-256-Digest: 1QObQ835s+Fcsh45wSyL/bgfuab0OZcfaji0pUNGjfs=
+
+Name: assets/akiniovo/index.html.bak
+SHA-256-Digest: ALPEmyujO37J10BBQvtKA/tLw32Rx6dGE5b/xriSVwk=
+
+Name: assets/akiniovo/js/akini-app.js
+SHA-256-Digest: 3FF7N/PmPHaGfRYNK6s7kOKhioT+LUCUpAYXHij2Un4=
+
+Name: assets/akiniovo/js/akini-calendar-menu.js
+SHA-256-Digest: jAXekndUgtCfnzxsZ9gZ1LDr+lSaAUB1ZUsLVpYtUWE=
+
+Name: assets/akiniovo/js/akini-contacts-tools.js
+SHA-256-Digest: i5hRoRpd363Dx/s5k9bd5wkyFSfAI+e4PS79i4TnLWs=
+
+Name: assets/akiniovo/js/akini-core.js
+SHA-256-Digest: OoAumwy5Ziw+3ZOw6JLDCA9y3d1Jgedg67L0XnzYhd8=
+
+Name: assets/akiniovo/js/akini-icity-helper.js
+SHA-256-Digest: W8ZMVF8E5361Mtyv34yGmyDD0Kak+R5NhUDLBA21iko=
+
+Name: assets/akiniovo/js/akini-navigation.js
+SHA-256-Digest: 09gKMffbLRylFF8agW3+UT/Y94FG1qiJuWJ3Iw1mILw=
+
+Name: assets/akiniovo/js/akini-r6.js
+SHA-256-Digest: 954XMn1HM7/6CdTnou6C84YPms521TnZikNhB6ApYwA=
+
+Name: assets/akiniovo/js/akini-restore.js
+SHA-256-Digest: oOF1HA4FLjQaMrur3nFUj3pfRKaI/HWcNZoY6BRDyAM=
+
+Name: assets/akiniovo/js/akini-runtime.js
+SHA-256-Digest: V95skJ0v7+yO43coKaPCUY1CeyQEnobo5rB/sL592C4=
+
+Name: assets/akiniovo/js/akini-screen1.js
+SHA-256-Digest: xYKDgGsXIzKw2H73iidwN4cTCqggNdkb8050IS/GuRo=
+
+Name: assets/akiniovo/js/akini-shop.js
+SHA-256-Digest: 5IncGMOUEuA9HekdfR0CGLctm6kiiH2grdluPRU6TYQ=
+
+Name: assets/akiniovo/js/akini-storage.js
+SHA-256-Digest: 3HlqRZoLf8tR+zMbhhr3Jz3h3cru9LGnIM7URgLaAMw=
+
+Name: assets/akiniovo/js/akini-survey-feature.js
+SHA-256-Digest: gbJ0uY2PhUbIVAdqS93NneKSApO99XKdP7kYH916EWs=
+
+Name: assets/akiniovo/js/akini-theme.js
+SHA-256-Digest: K1c+sTN5G9gIzAZa6U7vsgIeGzEVqfUneyHLWtjAIKE=
+
+Name: assets/akiniovo/js/akini-toast.js
+SHA-256-Digest: Ctv8EMG6EKctZ9Lw57mZgVRKWuLL1KUarkFWDcGKbV0=
+
+Name: assets/akiniovo/js/akini-vendor.js
+SHA-256-Digest: kojN9cjheFrEKy3LLQBScI/M7OKPSYeHDOiUxFqnwq8=
+
+Name: assets/akiniovo/js/jszip.min.js
+SHA-256-Digest: Va6cFqQeQitlyZTiqMJsPK4ymXF0nyjMCfnfHnvhm5U=
+
+Name: assets/yuyu.html
+SHA-256-Digest: PNf2pW7NdZP6ljy39Pb89XtpnNXOwrDmeJsR6t2U9yQ=
+
+Name: classes.dex
+SHA-256-Digest: 3dVjuaK4LfvKpo/t2X5i4Ort6y57ucpNRX8zdbcDWqM=
+
+Name: res/drawable/bg_btn_green.xml
+SHA-256-Digest: hahNZyO+WRDMXnxYjk/a+PS423YyM+4rER8o7/MQLdw=
+
+Name: res/drawable/bg_btn_red.xml
+SHA-256-Digest: GBtcU9yiFSb9/JAj60plBw7j3nkBPVxnbF0QHj+EJhI=
+
+Name: res/drawable/bg_circle_gray.xml
+SHA-256-Digest: WyOuZv6vM+YzGofFlurEr3ZzukdHec6b2iD778fixyI=
+
+Name: res/drawable/bg_topbar.xml
+SHA-256-Digest: U7M6Se9ltzyLDsGBqMGUgeGxmdW7DSyKDmEC1JNSetQ=
+
+Name: res/drawable/ic_launcher.png
+SHA-256-Digest: Xo2eQWrbyaZgpUazKPx+zuXiNFHlZbthpl+zVt0NWqI=
+
+Name: res/drawable/ic_notification.xml
+SHA-256-Digest: cnFDwb2mMAVrhvogXILj4/PKxIkOF9hTuO7sgt/MLgQ=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: uYjvUuo4eF9Zrc8hDzfXT8f/FTlMqMbGHtkhi6p0qGc=
+
+Name: res/layout/floating_call.xml
+SHA-256-Digest: 2kMzb2yNMjn+pSHXn3UhndJNXBCRoifiSlQL1G0bQYY=
+
+Name: resources.arsc
+SHA-256-Digest: 0SX2xX//nqbOfFd1hwjCfcQjdmf+cEb+7vIzIvcB8eg=
+
